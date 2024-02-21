@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "preserveConstEnums": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["**/*.spec.ts"],
+    "lib": [
+        "dom",
+        "es2018"
+    ],
+  }
